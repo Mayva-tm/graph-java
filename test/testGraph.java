@@ -27,19 +27,10 @@ public class testGraph {
         graph.BFS(graph.getVertexList().getHead().getData());
     }
 
-
-
-
     public static void main(String[] args) {
         testPrintAndrea();
         //primera prueba
         testPrintPrimero();
         testPrintSegundo();
-
-
-
-
-
-
     }
 }
